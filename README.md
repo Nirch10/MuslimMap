@@ -1,1 +1,1 @@
-# MuslimMap
+# SAMMap
